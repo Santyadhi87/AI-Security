@@ -60,8 +60,7 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 | Prompt Injection | view |
 | Jailbreaking | [view](Prompt-Security/THM_Jailbreaking_Notes.md) |
 | Prompt Defence | [view](Prompt-Security/prompt_defence.md) |
-
-| LLMborghini | view |
+| LLMborghini | [view](Prompt-Security/THM_LLMborghini.md) |
 | White Rabbit | view |
 
 ### Module 4 — AI Supply Chain Security
