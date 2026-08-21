@@ -58,7 +58,7 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 | Room | Write-up |
 |------|----------|
 | Prompt Injection | view |
-| Jailbreaking | view |
+| Jailbreaking | [view](Prompt-Security/THM_Jailbreaking_Notes.md) |
 | Prompt Defence | view |
 | LLMborghini | view |
 | White Rabbit | view |
