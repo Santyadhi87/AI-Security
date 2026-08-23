@@ -87,7 +87,7 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 
 ## Progress
 
-- [ ] Module 1 — AI Fundamentals
+- [✅] Module 1 — AI Fundamentals
 - [ ] Module 2 — Secure AI Systems
 - [ ] Module 3 — Prompt Security
 - [ ] Module 4 — AI Supply Chain Security
