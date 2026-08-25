@@ -69,7 +69,7 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 |------|----------|
 | Understanding AI Supply Chains |  [view](AI%20Supply%20Chain%20Security/Understanding%20AI%20Supply%20Chains.md) | 
 | Supply Chain Attack Vectors |  [view](AI%20Supply%20Chain%20Security/Supply_Chain_Attack_Vectors.md) |
-| Securing the AI Supply Chain | view |
+| Securing the AI Supply Chain | [view](AI%20Supply%20Chain%20Security/securing-ai-supply-chain.md) |
 | Payload | [view](AI%20Supply%20Chain%20Security/Payload.md)  |
 | Checkpoint | view |
 
