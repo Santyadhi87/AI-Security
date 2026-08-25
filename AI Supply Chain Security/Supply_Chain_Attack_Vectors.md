@@ -2,8 +2,6 @@
 
 **Room:** [Securing the AI Supply Chain – Attack Vectors](https://tryhackme.com/jr/understanding-ai-supplychains)  
 **Module:** AI Supply Chain Security  
-**Difficulty:** Intermediate  
-**Status:** ✅ Completed
 
 ---
 
