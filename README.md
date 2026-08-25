@@ -77,7 +77,7 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 
 | Room | Write-up |
 |------|----------|
-| RAG Security Fundamentals | [view](AI-Security/Data-Poisoning/RAG-Security-Fundamentals.md) |
+| RAG Security Fundamentals | [view](Data-Poisoning/RAG-Security-Fundamentals.md) |
 | Data Poisoning in RAG Systems | view |
 | Sensitive Information Disclosure | view |
 | UnIndexed | view |
