@@ -71,13 +71,13 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 | Supply Chain Attack Vectors |  [view](AI%20Supply%20Chain%20Security/Supply_Chain_Attack_Vectors.md) |
 | Securing the AI Supply Chain | [view](AI%20Supply%20Chain%20Security/securing-ai-supply-chain.md) |
 | Payload | [view](AI%20Supply%20Chain%20Security/Payload.md)  |
-| Checkpoint | view |
+| Checkpoint |[view](AI%20Supply%20Chain%20Security/checkpoint.md)|
 
 ### Module 5 — Data Poisoning
 
 | Room | Write-up |
 |------|----------|
-| RAG Security Fundamentals | view |
+| RAG Security Fundamentals | [view](AI-Security/Data-Poisoning/RAG-Security-Fundamentals.md) |
 | Data Poisoning in RAG Systems | view |
 | Sensitive Information Disclosure | view |
 | UnIndexed | view |
