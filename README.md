@@ -79,7 +79,7 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 |------|----------|
 | RAG Security Fundamentals | [view](Data-Poisoning/RAG-Security-Fundamentals.md) |
 | Data Poisoning in RAG Systems | view |
-| Sensitive Information Disclosure | view |
+| Sensitive Information Disclosure | [view](Data-Poisoning/Sensitive-Information-Disclosure.md) |
 | UnIndexed | view |
 | Lockdown | view |
 
