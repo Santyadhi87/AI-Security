@@ -92,3 +92,5 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 - [✅] Module 3 — Prompt Security
 - [✅] Module 4 — AI Supply Chain Security
 - [✅] Module 5 — Data Poisoning
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/santy.adhi87.png)](https://tryhackme.com/p/santy.adhi87)
