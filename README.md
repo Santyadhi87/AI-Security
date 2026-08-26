@@ -80,8 +80,8 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 | RAG Security Fundamentals | [view](Data-Poisoning/RAG-Security-Fundamentals.md) |
 | Data Poisoning in RAG Systems | view |
 | Sensitive Information Disclosure | [view](Data-Poisoning/Sensitive-Information-Disclosure.md) |
-| UnIndexed | view |
-| Lockdown | view |
+| UnIndexed |  [view](Data-Poisoning/UnIndexed.md)|
+| Lockdown |  [view](Data-Poisoning/LockDown.md) |
 
 ---
 
@@ -90,5 +90,5 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 - [✅] Module 1 — AI Fundamentals
 - [✅] Module 2 — Secure AI Systems
 - [✅] Module 3 — Prompt Security
-- [ ] Module 4 — AI Supply Chain Security
-- [ ] Module 5 — Data Poisoning
+- [✅] Module 4 — AI Supply Chain Security
+- [✅] Module 5 — Data Poisoning
