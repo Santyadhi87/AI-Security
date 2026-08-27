@@ -8,6 +8,12 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 **GitHub:**    [Santosh Adhikari](https://github.com/Santyadhi87)
 
 ---
+## 🏆 Certificate of Completion
+
+**TryHackMe – AI Security Learning Path**
+Completed: 26th August 2026 | 5 Modules · 25 Labs
+
+![AI Security Certificate](Ai%20Certificate.png)
 
 ## What I am learning
 
@@ -93,5 +99,4 @@ I am currently working through the TryHackMe AI Security pathway, documenting ev
 - [✅] Module 4 — AI Supply Chain Security
 - [✅] Module 5 — Data Poisoning
 
-# Certificate 
-[[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/santy.adhi87.png)](https://tryhackme.com/p/santy.adhi87)](https://github.com/Santyadhi87/AI-Security/blob/546f528502ab3ed412b289ee2a68605ecd63a32a/AI%20Security.pdf)
+
