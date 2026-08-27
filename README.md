@@ -84,7 +84,7 @@ Completed: 26th August 2026 | 5 Modules · 25 Labs
 | Room | Write-up |
 |------|----------|
 | RAG Security Fundamentals | [view](Data-Poisoning/RAG-Security-Fundamentals.md) |
-| Data Poisoning in RAG Systems | view |
+| Data Poisoning in RAG Systems | [view](Data-Poisoning/data-poisoning-rag-systems.md) |
 | Sensitive Information Disclosure | [view](Data-Poisoning/Sensitive-Information-Disclosure.md) |
 | UnIndexed |  [view](Data-Poisoning/UnIndexed.md)|
 | Lockdown |  [view](Data-Poisoning/LockDown.md) |
